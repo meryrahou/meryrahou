@@ -1,5 +1,4 @@
 # Hi, I'm mery 🎀 👋🏻 
-# Hi, I'm Mery 🎀 👋🏻 
 
 I'm a Computer Science student at ESI, I'm very passionate about : 
 - 💡 Competitive Programming
