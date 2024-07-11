@@ -9,7 +9,6 @@ I'm a Computer Science student at ESI, I'm very passionate about :
 ![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&theme=dracula)
 
 
-## Contact
 Feel free to reach out to me via email or LinkedIn for any queries or collaboration opportunities.
 
 ---
