@@ -8,7 +8,7 @@ I'm very passionate about :
 - 📊 Data
 
 
-![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&rank_icon=github&custom_title=Mery's\ Stats&theme=dracula)
+![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&rank_icon=github&theme=dracula)
 
 
 Feel free to reach out to me via email or LinkedIn for any queries or collaboration opportunities.
