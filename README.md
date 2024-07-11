@@ -1,6 +1,7 @@
 # Hi, I'm mery 🎀 👋🏻 
 
-I'm a Computer Science student at ESI, I enjoy tackling challenging problems and continuously improving my skills. 
+I'm a Computer Science student at ESI, 
+I enjoy tackling challenging problems and continuously improving my skills. 
 
 I'm very passionate about : 
 - 💡 Competitive Programming
