@@ -1,4 +1,4 @@
-# Hi, I'm mery, Welcome to My GitHub Profile!
+# Hi, I'm mery 🎀 👋🏻 
 
 I'm a Computer Science student @ ESI who is very passionate about : 
 - 💡 Competitive Programming
