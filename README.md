@@ -3,7 +3,7 @@
 Hello! I'm Meriem Rahou, a Computer Science student @ The Higher School of CS, I am very passionate about competitive programming.
 
 
-![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=stars,prs,issues&show_icons=true&theme=dracula)
+![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&theme=dracula)
 
 
 ## Contact
