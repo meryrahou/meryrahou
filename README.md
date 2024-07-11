@@ -1,6 +1,9 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm mery, Welcome to My GitHub Profile!
 
-Hello! I'm Meriem, Known as Mery  a Computer Science student @ The Higher School of CS, I am very passionate about competitive programming.
+I'm a Computer Science student @ ESI who is very passionate about : 
+- 💡 Competitive Programming
+- 👩🏻‍💻 Software Engineering
+- 📊 Data
 
 
 ![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&theme=dracula)
