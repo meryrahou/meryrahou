@@ -13,4 +13,4 @@ I'm very passionate about :
 Feel free to reach out to me via email or LinkedIn for any queries or collaboration opportunities.
 
 ---
-© 2024 Meriem Rahou
+© 2025 Meriem Rahou
