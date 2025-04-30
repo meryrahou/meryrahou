@@ -6,6 +6,7 @@ I'm very passionate about :
 - 💡 Competitive Programming
 - 📊 Data Science and Machine Learning
 
+
 ![Mery's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryrahou&hide=prs,issues&show_icons=true&rank_icon=github&theme=dracula&custom_title=Mery%20RAHOU%27s%20Github%20Stats)
 
 
